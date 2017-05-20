@@ -15,6 +15,16 @@ print('7. dag i ugen er', Uge_Dage[6])
 
 print('\n')
 
+print(Uge_Dage[0], 'skal jeg i skole')
+print(Uge_Dage[1], 'skal jeg i skole')
+print(Uge_Dage[2], 'skal jeg i skole')
+print(Uge_Dage[3], 'skal jeg i skole')
+print(Uge_Dage[4], 'skal jeg i skole')
+print(Uge_Dage[5], 'er der weekend og jeg kan slappe af')
+print(Uge_Dage[6], 'er der weekend og jeg kan slappe af')
+
+print('\n')
+
 indkøbsliste = ['Tomater', 'Bacon', 'Æg', 'Vin',
                 'Special Øl', 'Grill Pølser', 'Applesin Juice']
 
@@ -34,18 +44,12 @@ name = "Lucas"
 Kan_godt_lide = " Kan godt lide Is,"
 
 
+
 print(name, end= "")
 print(Kan_godt_lide, end= "")
 
 Is = " og han får tit is når det er varmt!"
 print(Is)
 
-
-print(Uge_Dage[0], 'skal jeg i skole')
-print(Uge_Dage[1], 'skal jeg i skole')
-print(Uge_Dage[2], 'skal jeg i skole')
-print(Uge_Dage[3], 'skal jeg i skole')
-print(Uge_Dage[4], 'skal jeg i skole')
-print(Uge_Dage[5], 'er der weekend og jeg kan slappe af')
-print(Uge_Dage[6], 'er der weekend og jeg kan slappe af')
+print('\n')
 
